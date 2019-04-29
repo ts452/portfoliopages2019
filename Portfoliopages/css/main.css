@@ -1,0 +1,36 @@
+body {
+    background-color: white;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+
+
+.fullborder {
+    border: black solid thin;
+}
+
+#wrapper {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#content {
+    width: 800px;
+    padding-right: 24px;
+    padding-left: 24px;
+    float: left;
+    font-size: 16px;
+    line-height: 27px;
+}
+
+#content h1 {
+    font-size: 42px;
+    line-height: 65px;
+}
+
+#content h2 {
+    font-size: 33px;
+    line-height: 52px;
+}

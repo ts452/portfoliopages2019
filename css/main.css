@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+
+#box1 {
+    background-color: green;
+}
+#box2 {
+    background-color: red;
+}
+#box3 {
+    background-color: blue;
+}
+#box4 {
+    background-color: yellow;
+}
+
+.box {
+
+    width:100px;
+    height: 100px;
+
+}

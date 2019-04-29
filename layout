@@ -1,0 +1,15 @@
+<div id="wrapper" class="fullborder">
+    <div id="header" class="fullborder">
+        Header
+    </div>
+    <div id="content" class="fullborder">
+        Content
+    </div>
+    <div id="sidebar" class="fullborder">
+        Sidebar
+    </div>
+    <div id="footer" class="fullborder">
+        Footer
+    </div>
+
+</div>
